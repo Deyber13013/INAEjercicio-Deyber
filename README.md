@@ -12,7 +12,7 @@ Este archivo esta en MarkDown y el proyecto es una pagina sencilla html
 texto normal
 > texto citado
 >Generalmente 
-> de otro lado
+> de otro lado de la pantalla
 ------
 ahora procedemos a ver comandos para modificar texto dentro de un parrafo.
 
