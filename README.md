@@ -14,7 +14,7 @@ texto normal
 >Generalmente 
 > de otro lado de la pantalla
 ------
-ahora procedemos a ver comandos para modificar texto dentro de un parrafo.
+ahora procedemos a ver comandos para modificar texto dentro de un parrafo y tarabajamos en el otro visual.
 
 Esto es otro parrafo. Esto es en **negrita**,_cursiva_, *otra cursiva*, __otra negrita__ y `codigo`. toman nota que solo funciona en los extremos ex_tre_mos. <u>subrayado</u>
 
