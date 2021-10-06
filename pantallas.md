@@ -8,6 +8,7 @@
 - [  ] tarea 2
 - [  ] tarea 3
 
+
 ## Simbolos Matemáticos
 Representaciones con KaTEX
 
